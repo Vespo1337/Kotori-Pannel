@@ -2,8 +2,8 @@
 Simple Api Based Stresser Tool For Educational Purposes
 
 # Features
-Simple API Based Stressing System
-CloudFlare Resolver
-Skype Resolver
-GeoIP
-Pinger
+1.Simple API Based Stressing System
+2.CloudFlare Resolver
+3.Skype Resolver
+4.GeoIP
+5.Pinger
