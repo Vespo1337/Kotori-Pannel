@@ -33,7 +33,7 @@ namespace KotoriPannel
             string time = Time.Text;
             string method = Methods.Text;
 
-            WebClient wc = new WebClient { }; wc.DownloadString($"API");
+            WebClient wc = new WebClient { }; wc.DownloadString($"YourAPI");
           MessageBox.Show($"Attack Sent to {ip} using {method} for {time} sec");
 
         }
